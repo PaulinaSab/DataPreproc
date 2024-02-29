@@ -11,7 +11,7 @@ library(sas7bdat)
 setwd(getwd())
 donations = read.sas7bdat("donate.sas7bdat")
 ```
-## Sutvarkome lentelė pagal tidy standartus įtraukiant naują kintamąjį donate rate
+## Lentelė sutvarkoma pagal tidy standartus įtraukiant naują kintamąjį donate rate
 ```{r}
 library(tidyr)
 library(tidyverse)
