@@ -1,4 +1,4 @@
-#### 4 užduotis
+#### 3 užduotis
 
 # Duomenų nuskaitymas
 
